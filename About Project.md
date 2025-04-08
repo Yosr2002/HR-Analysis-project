@@ -100,13 +100,4 @@ Demographic Insights: Explore how age, education, or marital status relate to te
 
 Performance Analysis: Study how performance ratings connect with retention
 
-Technical Notes
-The dataset contains both aggregated statistics and raw employee records
 
-Some column headers have minor typos that may need cleaning
-
-The data appears to be anonymized with unique employee IDs
-
-Multiple metrics are provided in both absolute counts and percentages
-
-This analysis provides a comprehensive foundation for understanding employee retention patterns and can help identify opportunities to improve workforce stability and satisfaction.
